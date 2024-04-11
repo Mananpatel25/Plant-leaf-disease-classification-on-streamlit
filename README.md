@@ -5,7 +5,7 @@ Various Pre-trained models were used from deep learning like InceptiionV3, Xcept
 TWO PLANTS WERE TAKEN INTO  CONSIDERATION - MANGO AND TOMATO. User can select either of plant from sidebar for prediction.
 # BELOW ARE DEMO PICS FROM THE APP
 ![image](https://github.com/Mananpatel25/Plant-leaf-disease-classification-on-streamlit/assets/85306973/43a25d94-9bc5-4722-8e61-9d995f4cfab1)
-![image](https://github.com/Mananpatel25/Plant-leaf-disease-classification-on-streamlit/assets/85306973/1bbd7321-26b7-4cd5-93dc-b34c74fe3930)
+![image](https://github.com/Mananpatel25/Plant-leaf-disease-classification-on-streamlit/assets/85306973/6679845a-9da3-4818-9ba2-46579f23f4a7)
 ![image](https://github.com/Mananpatel25/Plant-leaf-disease-classification-on-streamlit/assets/85306973/7184dc1f-4419-4f77-8081-45f532908660)
 ![image](https://github.com/Mananpatel25/Plant-leaf-disease-classification-on-streamlit/assets/85306973/0a37f101-b03d-447a-b1ab-23899cbbbb28)
 
